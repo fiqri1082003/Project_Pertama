@@ -1,0 +1,5 @@
+File kedua ini berisi rincian materi flutter
+1. Dart
+2. Flutter
+3. Backend
+4. Frontend
